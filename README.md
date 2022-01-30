@@ -1,0 +1,1 @@
+# Serial-Parallel-Decision-Tree-for-Prediction-of-Stock-Market
