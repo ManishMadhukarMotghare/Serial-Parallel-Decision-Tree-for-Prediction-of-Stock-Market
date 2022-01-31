@@ -1,0 +1,124 @@
+[22-Nov-2019 10:40:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method RGVPCore\RGVPDB::RGVPDB_GetConnection() in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/expenses.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/expenses.php on line 20
+[23-Nov-2019 11:24:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method RGVPCore\RGVPDB::RGVPDB_GetConnection() in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/ledgeraccount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/ledgeraccount.php on line 19
+[04-Dec-2019 12:59:34 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php on line 53
+[04-Dec-2019 13:01:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php on line 53
+[04-Dec-2019 19:28:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 19:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 19:40:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 19:45:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 19:46:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 19:56:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'RGVPCore\RGVP_StatusCodes' not found in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[04-Dec-2019 20:00:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method RGVPCore\RGVPDB::GETStatus() in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php:740
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/thc.php(165): RGVPCore\RGVPDB->Execute_Query(' SELECT Manifes...', 'GET', 'SELECT')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCore/RGVPCore.php on line 740
+[19-Dec-2019 14:03:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[19-Dec-2019 14:04:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[19-Dec-2019 14:05:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[19-Dec-2019 14:05:49 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[19-Dec-2019 14:07:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[19-Dec-2019 14:07:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare BlogContentformat() (previously declared in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVPCoreProject/RGVPWS-AOneLibrary.php:17) in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/drs.php on line 33
+[25-Dec-2019 13:22:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1001', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1001', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1004', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1004', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:22:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:23:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'FromBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:23:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:23:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1004', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[25-Dec-2019 13:23:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function Execute_Query() on null in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php:55
+Stack trace:
+#0 /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php(45): GetBranchfromRouteID('1005', 'ToBranch')
+#1 {main}
+  thrown in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/BranchAPI.php on line 55
+[07-Jan-2020 07:52:45 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/DocketAPI.php on line 64
+[07-Jan-2020 09:37:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Msg=Your Data is Updated Suc' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/DocketAPI.php on line 62
+[15-Feb-2020 09:28:00 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/rgvpiqgy/public_html/1DOMAINS/aoneexpress.in/RGVP-Admin/RGVP-API/ReportAPI.php on line 41
